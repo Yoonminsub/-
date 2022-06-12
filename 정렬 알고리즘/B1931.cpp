@@ -1,7 +1,7 @@
 /*
-*
-*
-*
+* minsub Yoon
+* 2022.1.21
+*https://www.acmicpc.net/problem/1931
 */
 #include <iostream>
 #include <algorithm>
