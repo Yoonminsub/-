@@ -1,6 +1,6 @@
 /*
-* minsub Yoon
-* 2022.1.19
+*Author : minsub Yoon
+*Date : 2022.1.19
 *https://www.acmicpc.net/problem/2960
 */
 #include <iostream>
