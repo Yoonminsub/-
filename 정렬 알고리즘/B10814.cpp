@@ -1,6 +1,6 @@
 /*
-* 
-* 2022.4.15
+* Author : minsub Yoon
+* Date : 2022.4.15
 *https://www.acmicpc.net/problem/10814
 */
 #include <stdio.h>
