@@ -1,7 +1,7 @@
 /*
-*
-* 2022.3.4
-* https://www.acmicpc.net/problem/1764
+*Author : minsub Yoon
+*Date : 2022.3.4
+*https://www.acmicpc.net/problem/1764
 */
 #include <iostream>
 #include <algorithm>
