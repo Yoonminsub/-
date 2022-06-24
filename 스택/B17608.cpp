@@ -1,6 +1,6 @@
 /*
-*
-*2020.9.18
+*Author : minsub Yoon
+*Date : 2020.9.18
 *https://www.acmicpc.net/problem/17608
 */
 #include <stdio.h>
