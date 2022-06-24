@@ -1,6 +1,6 @@
 /*
-*
-*2020.3.21
+*Author : minsub Yoon
+*Date : 2020.3.21
 *https://www.acmicpc.net/problem/8983
 */
 #include <cstdio>
