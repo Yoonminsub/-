@@ -1,6 +1,6 @@
 /*
-*
-*2022.5.14
+*Author : minsub Yoon
+*Date : 2022.5.14
 *https://www.acmicpc.net/problem/2504
 */
 #include <iostream>
